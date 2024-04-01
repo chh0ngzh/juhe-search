@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://chh0ngzh@github.com/chh0ngzh/juhe-server.git
+[submodule "client"]
+	path = client
+	url = https://chh0ngzh@github.com/chh0ngzh/juhe-client.git
